@@ -1,0 +1,207 @@
+/* Profile Page Styles - Matching Existing System */
+
+/* Profile Header Section */
+.profile-header {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    grid-template-rows: auto auto;
+    gap: 0.25rem 0.25rem;
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.profile-image {
+    grid-column: 1;
+    grid-row: 1;
+    width: 150px;
+}
+
+.profile-image-buttons {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.profile-avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #4CAF50, #81C784);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.profile-info {
+    grid-column: 2;
+    grid-row: 1;
+    flex: 0 1 auto;
+    min-width: 0;
+    padding-top: 2rem;
+    text-align: left;
+}
+
+.profile-name {
+    font-size: 2.5rem;
+    color: #2e3b4e;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+}
+
+.profile-details {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 1.5rem;
+    color: #4a5568;
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+.profile-details span {
+    display: inline-block;
+}
+
+/* Tabs */
+.tabs {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #e2e8f0;
+    padding-bottom: 0;
+}
+
+.tab {
+    padding: 12px 24px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    color: #4a5568;
+    border-radius: 8px 8px 0 0;
+    transition: all 0.3s;
+    font-weight: 500;
+    position: relative;
+    bottom: -2px;
+}
+
+.tab:hover {
+    background: #f0f9ff;
+    color: #0369a1;
+}
+
+.tab.active {
+    background: #c8e6c9;
+    color: #2d5f3f;
+    font-weight: 600;
+    border-bottom: 2px solid #c8e6c9;
+}
+
+/* Tab Content */
+.tab-content {
+    display: none;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+/* Info Rows */
+.info-row {
+    display: flex;
+    padding: 1rem 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.info-row:last-child {
+    border-bottom: none;
+}
+
+.info-label {
+    flex: 0 0 200px;
+    color: #2d3748;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.info-value {
+    flex: 1;
+    color: #4a5568;
+    font-size: 15px;
+}
+
+/* Medical Grid - Two cards side by side */
+.medical-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .medical-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .profile-header {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto auto;
+        text-align: center;
+        gap: 1.5rem;
+    }
+    .profile-image {
+        justify-self: center;
+    }
+    .profile-info {
+        grid-column: 1;
+        grid-row: 2;
+    }
+    .profile-image-buttons {
+        grid-column: 1;
+        grid-row: 3;
+        justify-content: center;
+    }
+    
+    .profile-name {
+        font-size: 2rem;
+    }
+    
+    .profile-details {
+        flex-direction: column;
+        gap: 0.5rem;
+        align-items: center;
+    }
+    
+    .tabs {
+        flex-wrap: wrap;
+    }
+    
+    .tab {
+        padding: 10px 16px;
+        font-size: 14px;
+    }
+    
+    .medical-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .info-row {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+    
+    .info-label {
+        flex: 1;
+    }
+}

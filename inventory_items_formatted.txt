@@ -1,0 +1,518 @@
+PHARMACY INVENTORY ITEMS
+========================
+
+--------------------------------
+PAIN RELIEF / ANTIPYRETIC
+--------------------------------
+Item Name: Paracetamol 500mg
+Category: Pain Relief
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-06-15
+Description: For pain and fever relief
+
+Item Name: Ibuprofen 200mg
+Category: Pain Relief
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-03-22
+Description: Anti-inflammatory pain reliever
+
+Item Name: Ibuprofen 400mg
+Category: Pain Relief
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-09-08
+Description: Moderate pain and inflammation
+
+Item Name: Mefenamic Acid 500mg
+Category: Pain Relief
+Unit: capsules
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-11-30
+Description: Menstrual and body pain
+
+Item Name: Aspirin 300mg
+Category: Pain Relief
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-05-14
+Description: Pain and fever relief
+
+--------------------------------
+ANTIBIOTIC
+--------------------------------
+Item Name: Amoxicillin 250mg
+Category: Antibiotic
+Unit: capsules
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-08-19
+Description: Antibiotic for infections
+
+Item Name: Amoxicillin 500mg
+Category: Antibiotic
+Unit: capsules
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-02-28
+Description: Antibiotic for bacterial infections
+
+Item Name: Amoxicillin + Clavulanate
+Category: Antibiotic
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-07-04
+Description: Broad-spectrum antibiotic
+
+Item Name: Cephalexin 500mg
+Category: Antibiotic
+Unit: capsules
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-10-12
+Description: For skin and respiratory infections
+
+Item Name: Azithromycin 500mg
+Category: Antibiotic
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-04-25
+Description: Antibiotic for respiratory infections
+
+Item Name: Cotrimoxazole
+Category: Antibiotic
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-12-07
+Description: For urinary and respiratory infections
+
+Item Name: Metronidazole 500mg
+Category: Antibiotic
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-01-18
+Description: For amoebiasis and anaerobic infections
+
+--------------------------------
+COUGH / COLD / ALLERGY
+--------------------------------
+Item Name: Lagundi Syrup
+Category: Medicine
+Unit: bottle
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-06-30
+Description: Herbal cough relief
+
+Item Name: Lagundi Tablet
+Category: Medicine
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-09-15
+Description: Herbal cough relief
+
+Item Name: Cough Syrup
+Category: Medicine
+Unit: bottle
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-03-08
+Description: For cough relief
+
+Item Name: Carbocisteine
+Category: Medicine
+Unit: capsules
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-11-22
+Description: Mucolytic for cough
+
+Item Name: Ambroxol
+Category: Medicine
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-05-03
+Description: Expectorant
+
+Item Name: Cetirizine 10mg
+Category: Allergy
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-08-14
+Description: Antihistamine for allergies
+
+Item Name: Loratadine 10mg
+Category: Allergy
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-02-11
+Description: Non-drowsy allergy relief
+
+Item Name: Phenylephrine
+Category: Allergy
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-10-29
+Description: Nasal decongestant
+
+--------------------------------
+DIGESTIVE
+--------------------------------
+Item Name: Oral Rehydration Solution
+Category: Emergency
+Unit: sachets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-07-21
+Description: For dehydration
+
+Item Name: Loperamide 2mg
+Category: Digestive
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-04-06
+Description: For diarrhea
+
+Item Name: Aluminum + Magnesium Hydroxide
+Category: Digestive
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-12-18
+Description: Antacid
+
+Item Name: Omeprazole 20mg
+Category: Digestive
+Unit: capsules
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-01-09
+Description: Acid reducer
+
+Item Name: Domperidone
+Category: Digestive
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-09-27
+Description: Anti-nausea
+
+--------------------------------
+VITAMINS / SUPPLEMENTS
+--------------------------------
+Item Name: Vitamin C
+Category: Vitamin
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-06-05
+Description: Immune support
+
+Item Name: Multivitamins
+Category: Vitamin
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-03-17
+Description: Daily nutritional supplement
+
+Item Name: Ferrous Sulfate
+Category: Vitamin
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-11-08
+Description: Iron supplement
+
+Item Name: Ferrous Sulfate + Folic Acid
+Category: Vitamin
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-05-26
+Description: For pregnant women
+
+Item Name: Folic Acid
+Category: Vitamin
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-08-31
+Description: Prenatal supplement
+
+Item Name: Vitamin A Capsule
+Category: Vitamin
+Unit: capsules
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-02-14
+Description: For child nutrition
+
+Item Name: Vitamin B-Complex
+Category: Vitamin
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-10-03
+Description: Nerve health
+
+--------------------------------
+HYPERTENSION
+--------------------------------
+Item Name: Amlodipine 5mg
+Category: Maintenance
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-07-12
+Description: For high blood pressure
+
+Item Name: Losartan 50mg
+Category: Maintenance
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-04-19
+Description: Antihypertensive
+
+Item Name: Captopril 25mg
+Category: Maintenance
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-12-02
+Description: Blood pressure control
+
+Item Name: Metoprolol
+Category: Maintenance
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-01-25
+Description: Heart rate and BP control
+
+--------------------------------
+DIABETES
+--------------------------------
+Item Name: Metformin 500mg
+Category: Maintenance
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-09-11
+Description: Blood sugar control
+
+Item Name: Gliclazide
+Category: Maintenance
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-06-28
+Description: For type 2 diabetes
+
+Item Name: Insulin
+Category: Emergency
+Unit: vial
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-03-05
+Description: Injectable diabetes medication
+
+--------------------------------
+RESPIRATORY / ASTHMA
+--------------------------------
+Item Name: Salbutamol Tablet
+Category: Emergency
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-11-16
+Description: Bronchodilator
+
+Item Name: Salbutamol Nebule
+Category: Emergency
+Unit: nebules
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-05-20
+Description: For nebulization
+
+Item Name: Salbutamol Inhaler
+Category: Emergency
+Unit: inhaler
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-08-07
+Description: Asthma relief
+
+Item Name: Prednisone
+Category: Emergency
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-02-23
+Description: Anti-inflammatory steroid
+
+Item Name: Montelukast
+Category: Maintenance
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-10-14
+Description: Asthma maintenance
+
+--------------------------------
+DERMATOLOGIC
+--------------------------------
+Item Name: Hydrocortisone Cream
+Category: Dermatologic
+Unit: tube
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-07-29
+Description: Anti-itch and inflammation
+
+Item Name: Betamethasone Cream
+Category: Dermatologic
+Unit: tube
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-04-12
+Description: Skin inflammation
+
+Item Name: Clotrimazole Cream
+Category: Dermatologic
+Unit: tube
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-12-25
+Description: Antifungal
+
+Item Name: Mupirocin Ointment
+Category: Dermatologic
+Unit: tube
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-01-31
+Description: Topical antibiotic
+
+Item Name: Calamine Lotion
+Category: Dermatologic
+Unit: bottle
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-09-04
+Description: Skin itch relief
+
+--------------------------------
+DEWORMING / PARASITIC
+--------------------------------
+Item Name: Albendazole
+Category: Deworming
+Unit: tablets
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-06-11
+Description: Anti-parasitic
+
+Item Name: Mebendazole
+Category: Deworming
+Unit: tablets
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-03-28
+Description: Deworming agent
+
+--------------------------------
+MATERNAL / FAMILY PLANNING
+--------------------------------
+Item Name: Trust Pills
+Category: Family Planning
+Unit: blister pack
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-11-05
+Description: Oral contraceptive
+
+Item Name: Injectable Contraceptive
+Category: Family Planning
+Unit: vial
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-05-17
+Description: Birth control injection
+
+Item Name: Condoms
+Category: Family Planning
+Unit: pieces
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-08-24
+Description: Barrier contraception
+
+Item Name: Oxytocin
+Category: Emergency
+Unit: ampule
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-02-07
+Description: Labor medication
+
+Item Name: Vitamin K
+Category: Emergency
+Unit: ampule
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-10-20
+Description: Newborn care
+
+--------------------------------
+FIRST AID / SUPPLIES
+--------------------------------
+Item Name: Ethyl Alcohol
+Category: Supply
+Unit: bottle
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-07-16
+Description: Antiseptic
+
+Item Name: Povidone Iodine
+Category: Supply
+Unit: bottle
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-04-02
+Description: Wound antiseptic
+
+Item Name: Hydrogen Peroxide
+Category: Supply
+Unit: bottle
+Quantity: 100
+Reorder Level: 10
+Expiration Date: 2029-12-13
+Description: Wound cleaning
+
+Item Name: Normal Saline
+Category: Supply
+Unit: bottle
+Quantity: 150
+Reorder Level: 10
+Expiration Date: 2029-01-14
+Description: Wound irrigation
